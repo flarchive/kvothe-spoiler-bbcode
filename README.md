@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of kvothe/spoiler-bbcode.** Not for installation: use [Packagist](https://packagist.org/packages/kvothe/spoiler-bbcode) or the [upstream repository](https://github.com/oaklinq/flarum-ext-spoiler-bbcode).
 
-**0** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/kvothe-spoiler-bbcode/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**1** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/kvothe-spoiler-bbcode/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2019-02-22 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/kvothe-spoiler-bbcode/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/kvothe-spoiler-bbcode.json](https://github.com/flarchive/archive-index/blob/main/packages/kvothe-spoiler-bbcode.json)
 
